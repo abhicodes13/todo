@@ -37,6 +37,7 @@ function addItem(e){
 
   // Append li to list
   itemList.appendChild(li);
+  
 }
 
 // Remove item
